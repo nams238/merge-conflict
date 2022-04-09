@@ -1,3 +1,3 @@
 # merge-conflict
 
-I can do this right
+i can do this
